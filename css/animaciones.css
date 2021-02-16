@@ -1,0 +1,13 @@
+.text{
+    animation-duration: 5s;
+    animation-name: text;
+}
+
+@keyframes text{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 2;
+    }
+}
